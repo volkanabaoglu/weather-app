@@ -61,7 +61,7 @@ const CreateReq = () => {
             </Col>
             <Col xs="auto">
               <Button type="submit" onClick={handleClick}>
-                Submit
+                Search
               </Button>
             </Col>
           </Row>
